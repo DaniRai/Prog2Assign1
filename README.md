@@ -1,2 +1,8 @@
 # Prog2Assign1
-group project for programming fundamentals 2
+A group project adapting the game North Sea Oil into a console based game
+Team:
+Daniel Quinlan
+Jamie Whelan
+Margaret Hamilton
+Megan Clarke
+Mick Hutchinson
